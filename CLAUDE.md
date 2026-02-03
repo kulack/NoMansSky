@@ -25,6 +25,7 @@ When I provide input (typed or dictated), for example, I'd use expressions like:
 - "Remember about my base <BaseInfo> that <content>" → Add to Base Info section, commit
 - "Add a receipe for <item> for ingredients <content>" → Add to Recipes section, commit
 - "Undo the last change". Where change might be commit, update, notes, comment... git revert the last commit.
+- "Remember <content>" → determine the relevant section and add to it, or create a new section (asking the user if the section sounds reasonable), commit
 
 ## File Structure
 
