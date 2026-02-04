@@ -64,6 +64,17 @@ known information about No Man's Sky game.
 
 <hr>
 
+## Explorer's Guild Donations
+
+Items to donate:
+* Exosuit Upgrade Charts
+* Hadal Core
+* Ancient Key
+* Vy'keen Weaponry
+* Glowing Mineral
+
+<hr>
+
 ## Recipies
 
 * Nanite Clusters can be made from a variety of ingredients
