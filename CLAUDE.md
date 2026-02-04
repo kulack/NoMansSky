@@ -15,6 +15,10 @@ Use macOS dictation for hands-free input while playing:
 - Speak your note
 - Text appears in terminal, process with Claude
 
+## Audio Output
+
+Answer questions about the game using the `say` utility for the result content. Keep the answers short and concise. For example, the answer to "which base has activated copper" would be just the base name.
+
 ## Note Commands
 
 When I provide input (typed or dictated), for example, I'd use expressions like:
