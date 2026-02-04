@@ -28,6 +28,10 @@ Rules:
 - **Important**: Always quote the message to handle special characters properly:
   - Correct: `say "This is correct!"`
   - Incorrect: `say This is incorrect!?` (special characters will cause issues)
+- **Dictation conflict**: The `say` utility doesn't work while dictation is active. Always toggle dictation off first using AppleScript:
+  ```bash
+  osascript -e 'tell application "System Events" to key code 63 using control down' && say "message"
+  ```
 
 **If you forget to use `say`, you have failed to follow instructions.**
 
