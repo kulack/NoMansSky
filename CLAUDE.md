@@ -17,14 +17,19 @@ Use macOS dictation for hands-free input while playing:
 
 ## Audio Output
 
-All responses should be spoken using the macOS `say` utility:
-- Keep answers short (1-2 sentences max)
+**MANDATORY: Every response MUST be spoken using the macOS `say` utility. No exceptions.**
+
+Rules:
+- **ALL responses** must use `say` - this includes answers, confirmations, summaries, and any other output
+- Keep spoken answers short (1-2 sentences max)
 - For simple lookups (e.g., "which base has X"), just speak the answer
 - For longer responses, speak a brief summary and append "See more in the console" to the audio
 - Always display the full response in the console as well
 - **Important**: Always quote the message to handle special characters properly:
   - Correct: `say "This is correct!"`
   - Incorrect: `say This is incorrect!?` (special characters will cause issues)
+
+**If you forget to use `say`, you have failed to follow instructions.**
 
 ## Note Commands
 
