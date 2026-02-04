@@ -17,7 +17,11 @@ Use macOS dictation for hands-free input while playing:
 
 ## Audio Output
 
-Answer questions about the game using the `say` utility for the result content. Keep the answers short and concise. For example, the answer to "which base has activated copper" would be just the base name.
+All responses should be spoken using the macOS `say` utility:
+- Keep answers short (1-2 sentences max)
+- For simple lookups (e.g., "which base has X"), just speak the answer
+- For longer responses, speak a brief summary and append "See more in the console" to the audio
+- Always display the full response in the console as well
 
 ## Note Commands
 
