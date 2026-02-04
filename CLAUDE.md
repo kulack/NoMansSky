@@ -58,3 +58,4 @@ After any change to GameMemory.md:
 1. Stage the file
 2. Commit with message summarizing the addition/change
 3. Keep commits atomic (one note/change per commit) for easy revert
+4. Push to remote occasionally: if the second-to-last commit is more than 10 minutes old, run `git push`
