@@ -11,6 +11,7 @@ known information about No Man's Sky game.
 
 * You can't teleport from a pirate system space station to a normal
   system's space station. But, if you create a base, you can teleport to the normal space station
+* Haldol cores are very valuable
 
 ## Types of Money
 
