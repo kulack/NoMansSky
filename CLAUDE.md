@@ -22,6 +22,9 @@ All responses should be spoken using the macOS `say` utility:
 - For simple lookups (e.g., "which base has X"), just speak the answer
 - For longer responses, speak a brief summary and append "See more in the console" to the audio
 - Always display the full response in the console as well
+- **Important**: Always quote the message to handle special characters properly:
+  - Correct: `say "This is correct!"`
+  - Incorrect: `say This is incorrect!?` (special characters will cause issues)
 
 ## Note Commands
 
