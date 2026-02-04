@@ -11,7 +11,7 @@ This directory contains my game notes and reference material for No Man's Sky.
 ## Audio Input
 
 Use macOS dictation for hands-free input while playing:
-- Press `Command` key twice to start dictation
+- Press `Ctrl` key twice to start dictation
 - Speak your note
 - Text appears in terminal, process with Claude
 
