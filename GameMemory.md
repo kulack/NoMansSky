@@ -100,3 +100,16 @@ Items to donate:
  * B or O (Blue): Requires Indium Drive.
  * X or Y (Purple): Requires Atlantid Drive.
 
+<hr>
+
+## Quests
+
+### Explorer's Guild Advancement
+Donate items to advance in the Explorer's Guild. Accepted items:
+* Storm Crystals
+* Glowing Mineral
+* Exosuit Upgrade Charts
+* Hadal Cores
+* Ancient Keys
+* Vy'keen Weaponry
+
